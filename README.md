@@ -6,4 +6,4 @@ Figma: https://www.figma.com/file/3DsMoPNZvbxt3dqTkAwRcX/Velocity?node-id=0%3A1
 
 ## Stack
 
-HTML5, CSS, JS
+HTML5, CSS, JS, adaptive && crossbrowser layout, 
